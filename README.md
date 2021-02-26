@@ -1,4 +1,4 @@
-# Rocketpay
+# :moneybag: Rocketpay
 
 Projeto realizado na semana da <b>NLW4</b> utilizando o Elixir e Phoenix.
 
