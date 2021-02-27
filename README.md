@@ -14,6 +14,8 @@ Acesse o endereço [`localhost:4000`](http://localhost:4000) pelo navegador ou s
 <a href="https://insomnia.rest/run/?label=Rocketpay&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fjfelipearaujo%2Fnlw4_rocketpay%2Fmain%2Finsomnia%2FInsomnia_2021-02-25.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Executar via Insomnia"></a>
 </div>
 
+Para acessar a cobertura de testes atual, clique [aqui](https://github.com/jfelipearaujo/nlw4_rocketpay/blob/main/coverage/excoveralls.html)
+
 ## Para mais informações sobre o Elixir
 
   * Website oficial: https://www.phoenixframework.org/
